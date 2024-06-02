@@ -1,0 +1,11 @@
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\bin\Debug\Pix-E.exe.config
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\bin\Debug\Pix-E.exe
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\bin\Debug\Pix-E.pdb
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\obj\Debug\Pix-E.csproj.AssemblyReference.cache
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\obj\Debug\Pix_E.Form1.resources
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\obj\Debug\Pix_E.Properties.Resources.resources
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\obj\Debug\Pix-E.csproj.GenerateResource.cache
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\obj\Debug\Pix-E.csproj.CoreCompileInputs.cache
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\obj\Debug\Pix-E.exe
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\obj\Debug\Pix-E.pdb
+C:\Users\tkdwn\source\repos\Pix-E\Pix-E\obj\Debug\Pix_E.ImageViewFrm.resources
